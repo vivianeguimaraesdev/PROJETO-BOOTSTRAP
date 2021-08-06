@@ -13,6 +13,7 @@
 .bg-dark-color {
   background-color: #050505;
 }
+/*Cor de fonte*/
 
 .primary-color {
   color: #050505;
@@ -87,7 +88,7 @@
   font-size: 1em;
   margin-top: 1em;
 }
-
+/*SLIDES*/
 .carousel-control-prev,
 .carousel-control-next {
   opacity: 0.7;
@@ -98,7 +99,7 @@
   color: #111;
   font-size: 3em;
 }
-
+/*Cor dos icones de passar para o lado do slide*/
 .carousel-indicators [data-bs-target] {
   background-color: #222;
   opacity: 0.8;
@@ -107,6 +108,7 @@
 .carousel-indicators .active {
   background-color: #000;
 }
+/*Media completa para o desktop*/
 
 @media (min-width: 768px) {
   #slider .carousel-caption {
